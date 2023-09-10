@@ -1,5 +1,5 @@
 #include "GameRun.h"
-//Ì°³ÔÉßÆô¶¯½çÃæ
+//è´ªåƒè›‡
 int main()
 {
   StartGame();
