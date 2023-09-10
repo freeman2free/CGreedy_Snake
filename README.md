@@ -4,9 +4,10 @@
 
 ## Realization Process
 ### 1.Create game interface
-  Use a two-dimensional array to represent the game interface (the first dimension represents columns and the second dimension represents rows)
+  Use a two-dimensional array to represent the game interface (the first dimension represents columns and the second dimension represents rows).
+  用一个二维数组表示游戏界面(第一维表示列第二维表示行).
+  
   There is a wall (border) in the game interface. Use 1 to represent the wall. The first row\last row\first column\last column are all walls.
-  用一个二维数组表示游戏界面(第一维表示列第二维表示行)
   游戏界面有墙(边界),使用1来表示墙,第一行\最后一行\第一列\最后一列都是墙
 
 ### 2.Create Snake
